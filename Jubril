@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<meta name="viewpoint" content="width=device-width, initial-scale=1">
+				<title>Mubarak Jubril Profile</title>
+<style>
+				html{
+											background-image:radial-gradient(white,green);
+				}
+				.intro{
+								width: 100;								
+								margin-top:0px;
+				}
+				.intro h1{
+								margin-left:80px;
+				}
+						.intro h4{
+								margin-left:40px;
+								}
+				li{
+								display:inline;
+								text-align:center;
+								margin-left:15px;
+								background: ;
+								color: red;
+				}
+</style>
+</head>
+<body>
+				<div class="intro">
+								<p>
+								<h1>WELCOME</h1>
+								<h4>TO MY FIRST EVER WEBPAGE</h4>
+								</p>							
+				</div>
+					<ul> 
+								<li>Home</li>
+								<li>About</li>
+								<li>Achievements</li>								
+				</ul>
+				</br>	
+				<section>
+								<p>
+								<h1>Biography</h1>
+								My name is Mubarak Jubril
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et mollis elit. Proin orci lorem, interdum id leo at, vehicula elementum mi. In commodo odio enim, ac euismod nulla luctus iaculis. Curabitur sodales non felis at rutrum. Aenean elementum tellus at purus accumsan malesuada. Maecenas ac aliquam felis. Vestibulum ac massa et diam vehicula pretium. Aenean congue tellus ac leo hendrerit malesuada in quis lectus. Morbi sit amet dolor odio. Praesent suscipit velit non nisl tincidunt pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin sodales varius purus. Sed nec porta purus.
+								</p>
+					<p>
+									In vitae odio eu nisi luctus lacinia. Nam euismod, tellus commodo commodo porttitor, nisi nulla iaculis nulla, in congue turpis risus vitae enim. Vivamus aliquam elit at lacinia molestie. Suspendisse et fringilla massa. Vestibulum aliquet enim quis odio tincidunt, a iaculis nisl dapibus. Sed pharetra rhoncus eros ut ornare. Nulla facilisi. Curabitur fermentum ullamcorper felis at aliquet. Quisque vel pharetra dui, in finibus erat. Proin vitae venenatis elit. Phasellus elementum porttitor urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean elit nibh, laoreet vitae pellentesque at, fringilla quis dui
+					</p>
+				</section>
+							
+				
+</body>
+</html>
